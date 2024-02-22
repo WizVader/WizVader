@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/progwithcharan" target="blank"><img src="https://img.shields.io/twitter/follow/progwithcharan?logo=twitter&style=for-the-badge" alt="progwithcharan" /></a> </p>
 
-- 🔭 I’m currently working on [100 movies to watch (Web Scraping)](https://github.com/WizVader/Python-Bootcamp/tree/main/bs4-start)
+- 🔭 I’m currently working on [Spotify playlist using the Musical Time Machine](https://github.com/WizVader/Python-Bootcamp/tree/main/bs4-start)
 
 - 🌱 I’m currently learning **Python, HTML, CSS, Java**
 
