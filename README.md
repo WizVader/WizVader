@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/progwithcharan" target="blank"><img src="https://img.shields.io/twitter/follow/progwithcharan?logo=twitter&style=for-the-badge" alt="progwithcharan" /></a> </p>
 
-- 🔭 I’m currently working on [Automated Amazon Price Tracker](https://github.com/WizVader/Python-Bootcamp/tree/main/automated-amazon-price-tracker)
+- 🔭 I’m currently working on [Automated Game Playing Bot](https://github.com/WizVader/Python-Bootcamp/tree/main/selenium/day-48)
 
 - 🌱 I’m currently learning **Python, HTML, CSS, Java**
 
