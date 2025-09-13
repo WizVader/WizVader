@@ -1,4 +1,4 @@
-Take a peek of what is only a fraction of my ideas, that have come to life 🙂
+Take a peek of what are only a fraction of my ideas, that have come to life 🙂
 # 📊 GitHub Stats:
 
 ![](https://nirzak-streak-stats.vercel.app/?user=WizVader&theme=dark&hide_border=false)<br/>
@@ -9,3 +9,4 @@ Take a peek of what is only a fraction of my ideas, that have come to life 🙂
 [![](https://visitcount.itsvg.in/api?id=WizVader&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
